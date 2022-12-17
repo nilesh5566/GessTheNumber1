@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GessTheNumber</string>
+    <string name="info">
+        Please selcct a number of digit.The number of digit that I keep in mind and the number of digit you choose will be same.Also, never forget that you have 10 rights.
+    </string>
+</resources>
